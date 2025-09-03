@@ -44,7 +44,10 @@ The Power BI visualization provides valuable insights into customer behavior and
 •  Savings account holders have the highest loan amount, while permanent employees have the highest sum of loan amount collected.
 •  The age group of 38-48 collected the most loans, with 64%.
 
+## Loan Default Risk Dashboard
+
 <img width="1380" height="808" alt="Screenshot 2025-08-21 224006" src="https://github.com/user-attachments/assets/0f7dc456-b8a5-4e49-8ecb-7ff1b01a732c" />
+
 
 <img width="1364" height="772" alt="Screenshot 2025-08-21 224554" src="https://github.com/user-attachments/assets/60a05c57-3076-44a9-8a42-a5910903d792" />
 
