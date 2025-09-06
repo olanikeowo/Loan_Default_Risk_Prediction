@@ -29,7 +29,7 @@ The following steps were taken to preprocess the data:
 The following steps were taken to build the model:
 •  Data Split: The dataset was split into training and testing sets using a 90:10 ratio.
 •  SMOTE Oversampling: The training data was oversampled using SMOTE to handle class imbalance.
-•  Model Selection: A Random Forest Classifier was selected as the model due to its ability to handle complex datasets and perform well on imbalanced data.                                                         •  Hyperparameter Tuning: The model's hyperparameters were tuned using GridSearchCV to optimize its performance.
+•  Model Selection: A Random Forest Classifier was selected as the model due to its ability to handle complex datasets and perform well on imbalanced data.        •  Hyperparameter Tuning: The model's hyperparameters were tuned using GridSearchCV to optimize its performance.
 
 ## Model Evaluation
 The model was evaluated using the following metrics:
